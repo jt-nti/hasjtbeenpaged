@@ -1,8 +1,8 @@
-# Has article 50 been invoked?
+# Has jt been paged?
 
-A simple site that answers an important question: has [article 50 of the Treaty on European Union](http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7551) been invoked? 
+A simple site that answers an important question: has jt been paged? Shamelessly pinched from [https://github.com/rooreynolds/hasarticle50beeninvoked](https://github.com/rooreynolds/hasarticle50beeninvoked)!
 
-The site is served online using [GitHub pages](https://help.github.com/articles/what-is-github-pages/) (ie using the [gh-pages branch](https://github.com/rooreynolds/hasarticle50beeninvoked/tree/gh-pages)) via a custom domain, [hasarticle50beeninvoked.uk](http://hasarticle50beeninvoked.uk/).
+The site is served online using [GitHub pages](https://help.github.com/articles/what-is-github-pages/) (ie using the [gh-pages branch](https://github.com/jthub/hasjtbeenpaged/tree/gh-pages)) via a custom domain, [hasjtbeenpaged.nti.me.uk](http://hasjtbeenpaged.nti.me.uk/).
 
 
 ## Updates and contributions
