@@ -4,7 +4,7 @@
 
 When (or if) jt is paged, a timely [update to the index file](https://github.com/jthub/hasjtbeenpaged/edit/master/index.html) changing the 'no' to a 'yes' would be especially helpful.
 
-When making your change, please include in the desciption field a link to some evidence that article 50 has indeed been invoked.
+When making your change, please include in the desciption field a solution for the pager alert.
 
 Thank you.
 
