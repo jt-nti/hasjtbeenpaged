@@ -20,7 +20,7 @@
       }
     </style>
     <script> //Count up from any date. Script from javascriptkit.com
-    var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+    var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
     function countup(yr,m,d,tyr,tm,td){
       var todayy, todaym, todayd
       if(tyr) {
@@ -53,7 +53,7 @@
       var difference=(Math.round((Date.parse(futurestring)-Date.parse(todaystring))/(24*60*60*1000))*1)
       if (difference < 0)
         difference=0
-      document.write("<p>"+difference + ((difference == 1) ? " day " : " days ") + "until jt is next on call on October 17, 2016</p>")
+      document.write("<p>"+difference + ((difference == 1) ? " day " : " days ") + "until jt is next on call on " + futurestring + "</p>")
     }
     </script>
   </head>
@@ -65,7 +65,7 @@
       //countup(2016,10,17)
       // Example: They push the button after three weeks.
       // countup(2016,6,23, 2016,7,15)
-      countdown(2016,10,17)
+      countdown(2016,10,24)
     </script>
 
     <div class="footer">
